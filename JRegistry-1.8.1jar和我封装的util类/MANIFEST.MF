@@ -1,0 +1,20 @@
+Manifest-Version: 1.2
+Created-By: Yinon Michaeli
+
+Name: com/registry/
+Specification-Title: JRegistry Classes
+Specification-Version: 1.8
+Specification-Vendor: Yinon Michaeli
+Implementation-Title: com.registry
+Implementation-Version: build1
+Implementation-Vendor: Yinon Michaeli
+Sealed: true
+
+Name: com/registry/event/
+Specification-Title: JRegistry Event Classes
+Specification-Version: 1.8
+Specification-Vendor: Yinon Michaeli
+Implementation-Title: com.registry.event
+Implementation-Version: build1
+Implementation-Vendor: Yinon Michaeli
+Sealed: true

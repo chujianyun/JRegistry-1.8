@@ -1,0 +1,17 @@
+-sourcepath "./src"
+-d "docs"
+-use
+-author
+-version
+-windowtitle "JRegistry"
+-doctitle "JRegistry API Specification"
+-header "JRegistry 1.8 API Specification"
+-footer "JRegistry 1.8 API Specification"
+-bottom "Copyright &#169; 2011, Yinon Michaeli. All rights reserved."
+-overview src/overview.html
+-link http://docs.oracle.com/javase/1.5.0/docs/api/
+-protected
+-subpackages com
+-group "JRegistry" com*:com.registry*:com.registry.event*
+com.registry
+com.registry.event
